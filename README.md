@@ -2,3 +2,6 @@
 ## Iniciando
 Criando primeiro repositório
 :zap:
+
+
+alterando o readme localmente!
